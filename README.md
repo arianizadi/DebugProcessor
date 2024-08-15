@@ -9,7 +9,6 @@ This Python script is designed to analyze robot data over time. It provides insi
 - Processes time-series data from robot logs
 - Generates statistical analysis of robot performance
 - Creates visualizations to represent data trends
-- Identifies anomalies in robot behavior
 
 ## Usage
 
